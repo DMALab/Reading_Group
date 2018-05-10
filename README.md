@@ -10,5 +10,6 @@ Architecture. [VLDB2018]
 * [20180423_Lele_Yu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180423_Lele_DGC.pptx) : 
 Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed Training.
 * [20180424_Zhipeng_Zhang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180424_Zhipeng_SLAonRDB.pptx) : Scalable Linear Algebra on a Relational Database System. [ICDE2017 best paper]
-* [20180430_Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : [vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design](https://arxiv.org/pdf/1602.08124) 
-* [20180507_Li_Yang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180507_Liyang_Gorila.pdf) : [Massively Parallel Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1507.04296)
+* [20180430_Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design 
+* [20180507_Li_Yang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180507_Liyang_Gorila.pdf) : Massively Parallel Methods for Deep Reinforcement Learning
+* [20180507_Li_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180510_Li_Xupeng_distillation.pptx) : Distilling a Neural Network Into a Soft Decision Tree.
