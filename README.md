@@ -12,6 +12,8 @@ Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed T
 * [20180424_Zhipeng_Zhang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180424_Zhipeng_SLAonRDB.pptx) : Scalable Linear Algebra on a Relational Database System. [ICDE2017 best paper]
 * [20180430_Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design 
 * [20180507_Li_Yang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180507_Liyang_Gorila.pdf) : Massively Parallel Methods for Deep Reinforcement Learning
-* [20180507_Li_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180510_Li_Xupeng_distillation.pptx) : Distilling a Neural Network Into a Soft Decision Tree.
-* [20180507_Xue_Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180521_Huanran.pptx) : Fast Automated Selection of Learning Algorithm And its Hyperparameters by Reinforcement Learning
+* [20180510_Li_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180510_Li_Xupeng_distillation.pptx) : Distilling a Neural Network Into a Soft Decision Tree.
+* [20180521_Xue_Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180521_Huanran.pptx) : Fast Automated Selection of Learning Algorithm And its Hyperparameters by Reinforcement Learning
+* [20180522_Xupeng_Miao_Zhipeng_Zhang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180522_Miao_Xupeng_Zhang_Zhipeng_distdl.pptx) : Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 
+
 
