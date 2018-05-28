@@ -1,4 +1,5 @@
 # Reading_Group
+## Please also inlcude the conference name!
 * [20180308_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180308_Zhipeng_FlexPS.pptx) : FlexPS: Flexible Parallelism Control in Parameter Server
 Architecture. [VLDB2018]
 * [20180315_jiangjiawei](https://github.com/DMALab/Reading_Group/blob/master/slides/20180315_Jiawei_DQN.pptx) : Playing Atari with Deep Reinforcement Learning 
