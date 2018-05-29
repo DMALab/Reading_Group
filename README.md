@@ -16,5 +16,6 @@ Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed T
 * [20180510_lixupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180510_Li_Xupeng_distillation.pptx) : Distilling a Neural Network Into a Soft Decision Tree.
 * [20180521_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180521_Huanran.pptx) : Fast Automated Selection of Learning Algorithm And its Hyperparameters by Reinforcement Learning
 * [20180522_miaoxupeng_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180522_Miao_Xupeng_Zhang_Zhipeng_distdl.pptx) : Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 
+* [20180528_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180528_Fangcheng_Weightless.pptx) : Weightless: Lossy weight encoding for deep neural network compression
 
 
