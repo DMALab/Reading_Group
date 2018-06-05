@@ -11,11 +11,12 @@ Architecture. [VLDB2018]
 * [20180423_yulele](https://github.com/DMALab/Reading_Group/blob/master/slides/20180423_Lele_DGC.pptx) : 
 Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed Training.
 * [20180424_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180424_Zhipeng_SLAonRDB.pptx) : Scalable Linear Algebra on a Relational Database System. [ICDE2017 best paper]
-* [20180430_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design 
+* [20180430_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design [MICRO 2016]
 * [20180507_liyang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180507_Liyang_Gorila.pdf) : Massively Parallel Methods for Deep Reinforcement Learning
 * [20180510_lixupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180510_Li_Xupeng_distillation.pptx) : Distilling a Neural Network Into a Soft Decision Tree.
 * [20180521_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180521_Huanran.pptx) : Fast Automated Selection of Learning Algorithm And its Hyperparameters by Reinforcement Learning
 * [20180522_miaoxupeng_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180522_Miao_Xupeng_Zhang_Zhipeng_distdl.pptx) : Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 
 * [20180528_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180528_Fangcheng_Weightless.pptx) : Weightless: Lossy weight encoding for deep neural network compression. [ICML 2018]
+* [20180604_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180604_Miao_Xupeng.pptx) : Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks  [ICML 2018]
 
 
