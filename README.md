@@ -20,6 +20,6 @@ Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed T
 * [20180528_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180528_Fangcheng_Weightless.pptx) : Weightless: Lossy weight encoding for deep neural network compression. [ICML 2018]
 * [20180604_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180604_Miao_Xupeng.pptx) : Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks  [ICML 2018]
 * [20180625_xiexu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180625_Xiexu.pptx) : Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
-* [20180628_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180628_Zhang_Zhipeng.pptx) : Communication-efficient machine learning in MapReduce
+* [20180628_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180628_Zhang_Zhipeng.pptx) : Communication-efficient machine learning in MapReduce [ICLR16, arxiv15]
 
 
