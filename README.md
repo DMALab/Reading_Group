@@ -1,7 +1,7 @@
 # Reading_Group
 ## Please also inlcude the conference name!
 * [20180308_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180308_Zhipeng_FlexPS.pptx) : FlexPS: Flexible Parallelism Control in Parameter Server
-Architecture. [VLDB2018]
+  Architecture. [VLDB2018]
 * [20180315_jiangjiawei](https://github.com/DMALab/Reading_Group/blob/master/slides/20180315_Jiawei_DQN.pptx) : Playing Atari with Deep Reinforcement Learning 
 * [20180319_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180319_Zhipeng_LearnMemoryAccessPattern.pptx) : Learning Memory Access Patterns.
 * [20180322_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180322_miaoxupeng_AccelerateXgboostOnGPU.pdf) : Accelerating the XGBoost algorithm using GPU computing.
@@ -9,7 +9,7 @@ Architecture. [VLDB2018]
 * [20180416_xiexu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180416_Xu_sgd.pptx) : Optimization Methods for Large-Scale Machine Learning.
 * [20180418_yangminhyu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180418_MingYu.pptx) : Planning chemical syntheses with deep neural networks and symbolic AI.
 * [20180423_yulele](https://github.com/DMALab/Reading_Group/blob/master/slides/20180423_Lele_DGC.pptx) : 
-Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed Training.
+  Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed Training.
 * [20180424_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180424_Zhipeng_SLAonRDB.pptx) : Scalable Linear Algebra on a Relational Database System. [ICDE2017 best paper]
 * [20180430_miaoxupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180430_Miaoxupeng.pdf) : vDNN Virtualized Deep Neural Networks for Scalable Memory-Efficient Neural Network Design [MICRO 2016]
 * [20180507_liyang](https://github.com/DMALab/Reading_Group/blob/master/slides/20180507_Liyang_Gorila.pdf) : Massively Parallel Methods for Deep Reinforcement Learning
@@ -22,4 +22,5 @@ Deep Gradient Compression:Reducing the Communication Bandwidth for Distributed T
 * [20180625_xiexu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180625_Xiexu.pptx) : Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 * [20180628_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180628_Zhang_Zhipeng.pptx) : Communication-efficient machine learning in MapReduce [ICLR16, arxiv15]
 * [20180702_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180702_Huanran.pdf) : simple and efficient architecture search for CNN [ICLR2018 workshop]
+* [20180716_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180716_Fangcheng.pdf) : Gradient Coding: Avoiding Stragglers in Distributed Learning [ICML 2017]
 
