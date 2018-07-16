@@ -22,5 +22,5 @@
 * [20180625_xiexu](https://github.com/DMALab/Reading_Group/blob/master/slides/20180625_Xiexu.pptx) : Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 * [20180628_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180628_Zhang_Zhipeng.pptx) : Communication-efficient machine learning in MapReduce [ICLR16, arxiv15]
 * [20180702_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180702_Huanran.pdf) : simple and efficient architecture search for CNN [ICLR2018 workshop]
-* [20180716_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180716_Fangcheng.pdf) : Gradient Coding: Avoiding Stragglers in Distributed Learning [ICML 2017]
+* [20180716_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180716_Fangcheng.pptx) : Gradient Coding: Avoiding Stragglers in Distributed Learning [ICML 2017]
 
