@@ -26,3 +26,5 @@
 * [20180716_Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180716_Fangcheng.pptx) : Gradient Coding: Avoiding Stragglers in Distributed Learning [ICML 2017]
 * [20180726_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180726_zhangzhipeng.pdf) : NoScope: Optimizing Neural Network Queries over Video at Scale [VLDB 2017]
 * [20180730_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180730_Huanran.pptx) : Parallel Feature Selection inspired by Group Testing [NIPS 2014]
+* [20180809 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180809_Miao_Xupeng.pdf): Highly Scalable Deep Learning Training System with Mixed Precision: Training ImageNet in Four Minutes [arvix18]
+* [20181029 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181029_Miao_Xupeng.pdf): PRETZEL: Opening the Black Box of ML Prediction Serving Systems [OSDI 18]
