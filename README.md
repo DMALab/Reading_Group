@@ -28,3 +28,4 @@
 * [20180730_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180730_Huanran.pptx) : Parallel Feature Selection inspired by Group Testing [NIPS 2014]
 * [20180809 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180809_Miao_Xupeng.pdf): Highly Scalable Deep Learning Training System with Mixed Precision: Training ImageNet in Four Minutes [arvix18]
 * [20181029 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181029_Miao_Xupeng.pdf): PRETZEL: Opening the Black Box of ML Prediction Serving Systems [OSDI 18]
+* [201811118 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181118_Zhang_Zhipeng.pdf): TUX2: Distributed Graph Computation For Machine Learning [NSDI2017]
