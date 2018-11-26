@@ -27,6 +27,8 @@
 * [20180726_zhangzhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180726_zhangzhipeng.pdf) : NoScope: Optimizing Neural Network Queries over Video at Scale [VLDB 2017]
 * [20180730_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20180730_Huanran.pptx) : Parallel Feature Selection inspired by Group Testing [NIPS 2014]
 * [20180809 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180809_Miao_Xupeng.pdf): Highly Scalable Deep Learning Training System with Mixed Precision: Training ImageNet in Four Minutes [arvix18]
+* [20180917 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20180917_Fangcheng.pdf): Small Batch or Large Batch? Gaussian Walk with Rebound Can Teach [KDD 2017]
 * [20181029 Miao_Xupeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181029_Miao_Xupeng.pdf): PRETZEL: Opening the Black Box of ML Prediction Serving Systems [OSDI 18]
+* [20181029 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181029_Fangcheng.pdf): CatBoost: unbiased boosting with categorical features [NIPS 2018]
 * [201811118 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181118_Zhang_Zhipeng.pdf): TUX2: Distributed Graph Computation For Machine Learning [NSDI2017]
 * [20181119_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181119_Huanran.pptx): Data Synthesis based on Generative Adversarial Networks [VLDB2018]
