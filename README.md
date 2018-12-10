@@ -34,4 +34,5 @@
 * [20181119_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181119_Huanran.pptx): Data Synthesis based on Generative Adversarial Networks [VLDB2018]
 * [20181203 Shen_yu](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Shen_Yu.pdf): You Only Look Once - Unified, Real-Time Object Detection [CVPR 2016]
 * [20181203 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Fangcheng.pdf): CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics [NSDI 2017]
+* [20181210 Zhang Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Zhang_Zhipeng.pdf): Unifying Data, Model and Hybrid Parallelism in Deep Learning via Tensor Tiling [arxiv 2018]
 * [20181210 Xue Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Huanran.pdf): Deep Feature Synthesis: Towards Automating Data Science Endeavors [DSAA 2015]
