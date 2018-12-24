@@ -36,3 +36,4 @@
 * [20181203 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Fangcheng.pdf): CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics [NSDI 2017]
 * [20181210 Zhang Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Zhang_Zhipeng.pdf): Unifying Data, Model and Hybrid Parallelism in Deep Learning via Tensor Tiling [arxiv 2018]
 * [20181210 Xue Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Huanran.pdf): Deep Feature Synthesis: Towards Automating Data Science Endeavors [DSAA 2015]
+* [20181217 Yang Mingyu](https://github.com/DMALab/Reading_Group/blob/master/slides/20181217_Yang_Mingyu.pdf): cDeepbind: A context sensitive deep learning model of RNA-protein binding [BioRxiv 2018]
