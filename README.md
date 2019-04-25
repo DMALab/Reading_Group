@@ -38,5 +38,7 @@
 * [20181210 Xue Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Huanran.pdf): Deep Feature Synthesis: Towards Automating Data Science Endeavors [DSAA 2015]
 * [20181217 Yang Mingyu](https://github.com/DMALab/Reading_Group/blob/master/slides/20181217_Yang_Mingyu.pdf): cDeepbind: A context sensitive deep learning model of RNA-protein binding [BioRxiv 2018]
 * [20181217 Yang Li](https://github.com/DMALab/Reading_Group/blob/master/slides/20181217_Yang_Li.pdf): AutoSSL: Towards Automated Semi-Supervised Learning [AAAI 2019]
-*  [20190307 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190307_Fangcheng.pdf): Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients [ICML 2018]
-*  [20190314 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190314_Zhang_Zhipeng.pdf): ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation [VLDB2019]
+* [20190307 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190307_Fangcheng.pdf): Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients [ICML 2018]
+* [20190314 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190314_Zhang_Zhipeng.pdf): ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation [VLDB2019]
+* [20190425 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190425_Fangcheng.pdf): Tiresias: A GPU Cluster Manager for Distributed Deep Learning [NSDI 2019]
+
