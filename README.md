@@ -32,13 +32,14 @@
 * [20181029 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181029_Fangcheng.pdf): CatBoost: unbiased boosting with categorical features [NIPS 2018]
 * [201811118 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181118_Zhang_Zhipeng.pdf): TUX2: Distributed Graph Computation For Machine Learning [NSDI2017]
 * [20181119_xuehuanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181119_Huanran.pptx): Data Synthesis based on Generative Adversarial Networks [VLDB2018]
-* [20181203 Shen_yu](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Shen_Yu.pdf): You Only Look Once - Unified, Real-Time Object Detection [CVPR 2016]
+* [20181203 Yu Shen](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Shen_Yu.pdf): You Only Look Once - Unified, Real-Time Object Detection [CVPR 2016]
 * [20181203 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181203_Fangcheng.pdf): CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics [NSDI 2017]
 * [20181210 Zhang Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Zhang_Zhipeng.pdf): Unifying Data, Model and Hybrid Parallelism in Deep Learning via Tensor Tiling [arxiv 2018]
 * [20181210 Xue Huanran](https://github.com/DMALab/Reading_Group/blob/master/slides/20181210_Huanran.pdf): Deep Feature Synthesis: Towards Automating Data Science Endeavors [DSAA 2015]
 * [20181217 Yang Mingyu](https://github.com/DMALab/Reading_Group/blob/master/slides/20181217_Yang_Mingyu.pdf): cDeepbind: A context sensitive deep learning model of RNA-protein binding [BioRxiv 2018]
 * [20181217 Yang Li](https://github.com/DMALab/Reading_Group/blob/master/slides/20181217_Yang_Li.pdf): AutoSSL: Towards Automated Semi-Supervised Learning [AAAI 2019]
+* [20190228 Yu Shen](https://github.com/DMALab/Reading_Group/blob/master/slides/20190228_Shen_Yu.pdf): Glyce: Glyph-vectors for Chinese Character Representations
 * [20190307 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190307_Fangcheng.pdf): Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients [ICML 2018]
 * [20190314 Zhang_Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190314_Zhang_Zhipeng.pdf): ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation [VLDB2019]
 * [20190425 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190425_Fangcheng.pdf): Tiresias: A GPU Cluster Manager for Distributed Deep Learning [NSDI 2019]
-
+* [20190509 Yu Shen](https://github.com/DMALab/Reading_Group/blob/master/slides/20190509_Shen_Yu.pdf): DARTS: Differentiable Architecture Search [ICLR 2019]
