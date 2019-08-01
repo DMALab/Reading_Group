@@ -44,3 +44,5 @@
 * [20190425 Fangcheng](https://github.com/DMALab/Reading_Group/blob/master/slides/20190425_Fangcheng.pdf): Tiresias: A GPU Cluster Manager for Distributed Deep Learning [NSDI 2019]
 * [20190509 Yu Shen](https://github.com/DMALab/Reading_Group/blob/master/slides/20190509_Shen_Yu.pdf): DARTS: Differentiable Architecture Search [ICLR 2019]
 * [20190516 Zhang Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/slides/20190516_Zhipeng.pdf): Pytorch-BigGraph: A Large-scale Graph Embedding System
+* [20190711 Yu Shen](https://github.com/DMALab/Reading_Group/blob/master/slides/20190711_Shen_Yu.pdf): Neural Architecture Optimization [NeurIPS 2018]
+* [20190801 Zhang Zhipeng](https://github.com/DMALab/Reading_Group/blob/master/slides/slides/20190801_Zhang_Zhipeng.pdf): Continuous Integration of Machine Learning Models with ease.ml/ci [SysML 2019]
